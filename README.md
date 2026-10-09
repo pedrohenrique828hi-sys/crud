@@ -1,4 +1,3 @@
 # crud
 
--npm init -y
--npm install express mysql2 dotenv
+##npm init -y
